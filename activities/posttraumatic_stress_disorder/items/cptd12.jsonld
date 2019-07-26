@@ -1,0 +1,39 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "cptd12",
+    "formName": "posttraumatic_stress_disorder",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "INTERVIEWER: IS CHILD AGE 12 OR UNDER,OR IMMATURE FOR THEIR AGE?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": {
+                    "en": "No "
+                }
+            },
+            {
+                "schema:value": 1,
+                "schema:name": {
+                    "en": "Yes"
+                }
+            }
+        ],
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "customAlignment": "RH",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

@@ -1,0 +1,25 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "cscr37",
+    "formName": "screener",
+    "ui": {
+        "inputType": "descriptive"
+    },
+    "question": {
+        "en": "Now I am going to ask you some questions about things that happen to people during stressful times."
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "customAlignment": "",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

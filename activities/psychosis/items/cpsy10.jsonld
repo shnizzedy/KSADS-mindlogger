@@ -1,0 +1,26 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "cpsy10",
+    "formName": "psychosis",
+    "ui": {
+        "inputType": "descriptive",
+        "hidden": true
+    },
+    "question": {
+        "en": "How long did it last (Estimate duration and dates)?"
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "customAlignment": "",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

@@ -1,0 +1,28 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcgaf0012_beb2_e41",
+    "formName": "gaf_scale",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": {
+        "en": "Lifetime"
+    },
+    "schema:description": {
+        "en": "LIFETIME"
+    },
+    "textValidationTypeOrShowSliderNumber": "number",
+    "responseOptions": {
+        "minValue": "0",
+        "maxValue": "100",
+        "requiredValue": ""
+    },
+    "customAlignment": "RH",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

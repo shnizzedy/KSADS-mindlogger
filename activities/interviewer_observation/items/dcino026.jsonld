@@ -1,0 +1,57 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcino026",
+    "formName": "interviewer_observation",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Positive behavior (ranges from ingratiating comments to seductiveness and total compliance)"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": {
+                    "en": "No problem "
+                }
+            },
+            {
+                "schema:value": 1,
+                "schema:name": {
+                    "en": "Vague "
+                }
+            },
+            {
+                "schema:value": 2,
+                "schema:name": {
+                    "en": "Mild "
+                }
+            },
+            {
+                "schema:value": 3,
+                "schema:name": {
+                    "en": "Moderate "
+                }
+            },
+            {
+                "schema:value": 4,
+                "schema:name": {
+                    "en": "Severe"
+                }
+            }
+        ],
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "customAlignment": "",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "dcino025",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

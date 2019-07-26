@@ -1,0 +1,63 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcmdd154",
+    "formName": "major_depression",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Did you feel (sad/ grouchy/ like nothing was fun) at certain times of the year, like in the winter, spring, summer, or fall?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": {
+                    "en": "No pattern "
+                }
+            },
+            {
+                "schema:value": 1,
+                "schema:name": {
+                    "en": "Winter "
+                }
+            },
+            {
+                "schema:value": 2,
+                "schema:name": {
+                    "en": "Spring "
+                }
+            },
+            {
+                "schema:value": 3,
+                "schema:name": {
+                    "en": "Summer "
+                }
+            },
+            {
+                "schema:value": 4,
+                "schema:name": {
+                    "en": "Fall "
+                }
+            },
+            {
+                "schema:value": 9,
+                "schema:name": {
+                    "en": "Unknown"
+                }
+            }
+        ],
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "customAlignment": "LH",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

@@ -1,0 +1,29 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcdgu117",
+    "formName": "drug_use",
+    "ui": {
+        "inputType": "text",
+        "hidden": true
+    },
+    "question": {
+        "en": "Are you in a methadone program? For how many months all together have you been taking legally prescribed methadone in a methadone program?"
+    },
+    "schema:description": {
+        "en": "MONTHS"
+    },
+    "textValidationTypeOrShowSliderNumber": "number",
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "customAlignment": "",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

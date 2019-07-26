@@ -1,0 +1,26 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dctlo053",
+    "formName": "timeline",
+    "preamble": "<div style=\"font-size: 12pt; text-decoration: underline;\"> CHILD ABOUT SELF</div>",
+    "ui": {
+        "inputType": "notes"
+    },
+    "question": {
+        "en": "What do you enjoy most? (e.g. hobbies, sports, clubs, etc.)"
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "customAlignment": "LH",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

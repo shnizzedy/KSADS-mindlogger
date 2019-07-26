@@ -1,0 +1,29 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dccaf002",
+    "formName": "caffeine",
+    "ui": {
+        "inputType": "text",
+        "hidden": true
+    },
+    "question": {
+        "en": "How many 8oz. cups of coffee do you usually consume per day?  (On the days you drink coffee)"
+    },
+    "schema:description": {
+        "en": "NUMBER PER DAY"
+    },
+    "textValidationTypeOrShowSliderNumber": "number",
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "customAlignment": "",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

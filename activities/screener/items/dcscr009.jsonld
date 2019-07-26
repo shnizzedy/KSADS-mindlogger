@@ -1,0 +1,29 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcscr009",
+    "formName": "screener",
+    "ui": {
+        "inputType": "text",
+        "hidden": true
+    },
+    "question": {
+        "en": "About how many talk sessions did you have in total?"
+    },
+    "schema:description": {
+        "en": "NUMBER"
+    },
+    "textValidationTypeOrShowSliderNumber": "number",
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "customAlignment": "",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

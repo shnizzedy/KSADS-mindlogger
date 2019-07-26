@@ -1,0 +1,58 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcino025",
+    "formName": "interviewer_observation",
+    "preamble": "<div style=\"text-decoration: underline;\">Attitude Toward Interviewer (verbal expression)</div>\nUse the following scale to code responses for this section.",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Negative behavior (ranges from mild disrespect to sarcasm, rudeness, cursing)"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": {
+                    "en": "No problem "
+                }
+            },
+            {
+                "schema:value": 1,
+                "schema:name": {
+                    "en": "Vague "
+                }
+            },
+            {
+                "schema:value": 2,
+                "schema:name": {
+                    "en": "Mild "
+                }
+            },
+            {
+                "schema:value": 3,
+                "schema:name": {
+                    "en": "Moderate "
+                }
+            },
+            {
+                "schema:value": 4,
+                "schema:name": {
+                    "en": "Severe"
+                }
+            }
+        ],
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "customAlignment": "",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "dcino025",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

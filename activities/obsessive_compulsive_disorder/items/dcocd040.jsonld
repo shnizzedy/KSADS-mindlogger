@@ -1,0 +1,46 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcocd040",
+    "formName": "obsessive_compulsive_disorder",
+    "ui": {
+        "inputType": "radio",
+        "hidden": true
+    },
+    "question": {
+        "en": "Recognizes that behavior is excessive / unreasonable - may not be present for children."
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": {
+                    "en": "No "
+                }
+            },
+            {
+                "schema:value": 1,
+                "schema:name": {
+                    "en": "Yes "
+                }
+            },
+            {
+                "schema:value": 9,
+                "schema:name": {
+                    "en": "Unk"
+                }
+            }
+        ],
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "customAlignment": "",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "dcocd040",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

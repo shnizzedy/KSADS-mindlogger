@@ -1,0 +1,52 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcocd095",
+    "formName": "obsessive_compulsive_disorder",
+    "ui": {
+        "inputType": "radio",
+        "hidden": true
+    },
+    "question": {
+        "en": "How much more difficult is it to throw away (or give away) toys and/or other stuff you collect than it is for other children your age?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": {
+                    "en": "mild problem"
+                }
+            },
+            {
+                "schema:value": 2,
+                "schema:name": {
+                    "en": "moderate"
+                }
+            },
+            {
+                "schema:value": 3,
+                "schema:name": {
+                    "en": "severe"
+                }
+            },
+            {
+                "schema:value": 9,
+                "schema:name": {
+                    "en": "Unknown"
+                }
+            }
+        ],
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "customAlignment": "LV",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

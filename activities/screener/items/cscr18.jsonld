@@ -1,0 +1,25 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "cscr18",
+    "formName": "screener",
+    "ui": {
+        "inputType": "descriptive"
+    },
+    "question": {
+        "en": "Some people have what we call \"panic or anxiety attacks\".  In these kinds of attacks, people become very scared, even though there is nothing around to frighten them.  Sometimes, they feel they can't breathe or their heart beats fast.  The attacks come on very quickly and then go away."
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "customAlignment": "",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

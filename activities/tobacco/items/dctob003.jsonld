@@ -1,0 +1,33 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dctob003",
+    "formName": "tobacco",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "How old were you the very first time you ever used smokeless tobacco?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 7,
+                "schema:name": {
+                    "en": "N/A"
+                }
+            }
+        ],
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "customAlignment": "",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

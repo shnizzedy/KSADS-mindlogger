@@ -1,0 +1,26 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "cocd24",
+    "formName": "obsessive_compulsive_disorder",
+    "ui": {
+        "inputType": "descriptive",
+        "hidden": true
+    },
+    "question": {
+        "en": "INTERVIEWER: If either HOARDING question in the compulsion general probes or in the list of Compulsions was endorced, complete the followign questions; otherwise END section."
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "customAlignment": "",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

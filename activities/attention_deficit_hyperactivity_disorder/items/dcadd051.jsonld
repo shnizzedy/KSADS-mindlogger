@@ -1,0 +1,29 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcadd051",
+    "formName": "attention_deficit_hyperactivity_disorder",
+    "ui": {
+        "inputType": "text",
+        "hidden": true
+    },
+    "question": {
+        "en": "N of Weeks"
+    },
+    "schema:description": {
+        "en": "WEEKS"
+    },
+    "textValidationTypeOrShowSliderNumber": "number",
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "customAlignment": "RH",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

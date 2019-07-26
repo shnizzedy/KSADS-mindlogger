@@ -1,0 +1,57 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcino023",
+    "formName": "interviewer_observation",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Eye Contact"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": {
+                    "en": "No problem"
+                }
+            },
+            {
+                "schema:value": 1,
+                "schema:name": {
+                    "en": "Dubious"
+                }
+            },
+            {
+                "schema:value": 2,
+                "schema:name": {
+                    "en": "Mild"
+                }
+            },
+            {
+                "schema:value": 3,
+                "schema:name": {
+                    "en": "Moderate"
+                }
+            },
+            {
+                "schema:value": 4,
+                "schema:name": {
+                    "en": "Severe"
+                }
+            }
+        ],
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "customAlignment": "LV",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

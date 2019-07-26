@@ -1,0 +1,45 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcino006",
+    "formName": "interviewer_observation",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Quality of Information on Feelings of Child"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": {
+                    "en": "Account believed to accurate "
+                }
+            },
+            {
+                "schema:value": 2,
+                "schema:name": {
+                    "en": "Uncertain "
+                }
+            },
+            {
+                "schema:value": 3,
+                "schema:name": {
+                    "en": "Account believed inaccurate"
+                }
+            }
+        ],
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "customAlignment": "LH",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

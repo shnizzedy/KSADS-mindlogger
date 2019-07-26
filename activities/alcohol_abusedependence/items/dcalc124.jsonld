@@ -1,0 +1,46 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcalc124",
+    "formName": "alcohol_abusedependence",
+    "ui": {
+        "inputType": "radio",
+        "hidden": true
+    },
+    "question": {
+        "en": "Other"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": {
+                    "en": "No "
+                }
+            },
+            {
+                "schema:value": 1,
+                "schema:name": {
+                    "en": "Yes "
+                }
+            },
+            {
+                "schema:value": 9,
+                "schema:name": {
+                    "en": "Unk"
+                }
+            }
+        ],
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "customAlignment": "",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "dcalc122",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

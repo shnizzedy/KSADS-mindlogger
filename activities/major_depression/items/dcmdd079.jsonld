@@ -1,0 +1,52 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcmdd079",
+    "formName": "major_depression",
+    "ui": {
+        "inputType": "radio",
+        "hidden": true
+    },
+    "question": {
+        "en": "INTERVIEWER:Based on clinical judgment, were these real hallucinations? Get examples. "
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": {
+                    "en": "No "
+                }
+            },
+            {
+                "schema:value": 1,
+                "schema:name": {
+                    "en": "Yes "
+                }
+            },
+            {
+                "schema:value": 9,
+                "schema:name": {
+                    "en": "Unk "
+                }
+            },
+            {
+                "schema:value": 7,
+                "schema:name": {
+                    "en": "N/A"
+                }
+            }
+        ],
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "customAlignment": "",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "dcmdd077",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

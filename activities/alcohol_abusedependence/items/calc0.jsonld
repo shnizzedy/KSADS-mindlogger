@@ -1,0 +1,25 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "calc0",
+    "formName": "alcohol_abusedependence",
+    "ui": {
+        "inputType": "descriptive"
+    },
+    "question": {
+        "en": "The next questions are about your use of alcohol including beer, wine, wine coolers, and hard liquor like vodka, gin, whiskey, and mixed drinks.   When I say 'drink', I mean a glass of wine, a bottle or can of beer, a shot of liquor, or a mixed drink."
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "customAlignment": "",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

@@ -1,0 +1,46 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dctlo061",
+    "formName": "timeline",
+    "preamble": "<div style=\"font-size: 14pt; text-decoration: underline;\"> OVERVIEW OF EMOTIONAL OR BEHAVIOR PROBLEMS</div>\n\n<div style=\"font-size: 12pt; text-decoration: underline;\"> SUGGEST PROBES</div>",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Have you ever had problems with your feelings, nerves, or mood?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": {
+                    "en": "No "
+                }
+            },
+            {
+                "schema:value": 1,
+                "schema:name": {
+                    "en": "Yes "
+                }
+            },
+            {
+                "schema:value": 9,
+                "schema:name": {
+                    "en": "Unk"
+                }
+            }
+        ],
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "customAlignment": "",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "dctlo061",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

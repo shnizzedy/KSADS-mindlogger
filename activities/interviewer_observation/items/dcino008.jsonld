@@ -1,0 +1,51 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcino008",
+    "formName": "interviewer_observation",
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Respondent's Interest in the Interview"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": {
+                    "en": "Bored "
+                }
+            },
+            {
+                "schema:value": 2,
+                "schema:name": {
+                    "en": "Indifferent "
+                }
+            },
+            {
+                "schema:value": 3,
+                "schema:name": {
+                    "en": "Mildly Interested "
+                }
+            },
+            {
+                "schema:value": 4,
+                "schema:name": {
+                    "en": "Highly Interested"
+                }
+            }
+        ],
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "customAlignment": "LH",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

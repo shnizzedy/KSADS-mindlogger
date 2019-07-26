@@ -1,0 +1,58 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcocd043",
+    "formName": "obsessive_compulsive_disorder",
+    "ui": {
+        "inputType": "radio",
+        "hidden": true
+    },
+    "question": {
+        "en": "How much of the time would you do [insert compulsion here]?  Every day? Less? (If less read responses)"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": {
+                    "en": "Less than once/week "
+                }
+            },
+            {
+                "schema:value": 2,
+                "schema:name": {
+                    "en": "1-2 times/week "
+                }
+            },
+            {
+                "schema:value": 3,
+                "schema:name": {
+                    "en": "3-5 times/week "
+                }
+            },
+            {
+                "schema:value": 4,
+                "schema:name": {
+                    "en": "6-7 times/week "
+                }
+            },
+            {
+                "schema:value": 9,
+                "schema:name": {
+                    "en": "Unknown"
+                }
+            }
+        ],
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "customAlignment": "LH",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

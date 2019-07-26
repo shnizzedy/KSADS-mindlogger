@@ -1,0 +1,26 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcino001",
+    "formName": "interviewer_observation",
+    "preamble": "<div style=\" color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">INTERVIEWER: Rate the following items in regard to the subject being interviewed.</div>",
+    "ui": {
+        "inputType": "notes"
+    },
+    "question": {
+        "en": "Record the names of any family members (or others) present or within earshot during part or the entire interview."
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "customAlignment": "LH",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

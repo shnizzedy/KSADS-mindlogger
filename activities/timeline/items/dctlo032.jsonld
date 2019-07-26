@@ -1,0 +1,52 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dctlo032",
+    "formName": "timeline",
+    "ui": {
+        "inputType": "radio",
+        "hidden": true
+    },
+    "question": {
+        "en": "Arithmetic/Math"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 1,
+                "schema:name": {
+                    "en": "Above Average "
+                }
+            },
+            {
+                "schema:value": 2,
+                "schema:name": {
+                    "en": "Average "
+                }
+            },
+            {
+                "schema:value": 3,
+                "schema:name": {
+                    "en": "Below Average "
+                }
+            },
+            {
+                "schema:value": 4,
+                "schema:name": {
+                    "en": "Failing"
+                }
+            }
+        ],
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "customAlignment": "",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "dctlo031",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}

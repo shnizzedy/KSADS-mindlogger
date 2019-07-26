@@ -1,0 +1,25 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "calc3",
+    "formName": "alcohol_abusedependence",
+    "ui": {
+        "inputType": "descriptive"
+    },
+    "question": {
+        "en": "One Standard Drink:\n12.oz. beer = 1 can or bottle\n5 oz. wine = 1 small glass\n1.5 oz. hard liquor = 1 shot or 1 mixed drink\n"
+    },
+    "textValidationTypeOrShowSliderNumber": "",
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    },
+    "customAlignment": "",
+    "questionNumber (surveysOnly)": "",
+    "matrixGroupName": "",
+    "matrixRanking?": "",
+    "fieldAnnotation": ""
+}
