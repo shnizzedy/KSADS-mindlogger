@@ -1,0 +1,116 @@
+"@context": {
+  "activity_path": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/master/activities/",
+  "agoraphobia": {
+    "@id": "activity_path:agoraphobia/agoraphobia_schema.jsonld",
+    "@type": "@id"
+  },
+  "alcohol_abusedependence": {
+    "@id": "activity_path:alcohol_abusedependence/alcohol_abusedependence_schema.jsonld",
+    "@type": "@id"
+  },
+  "attention_deficit_hyperactivity_disorder": {
+    "@id": "activity_path:attention_deficit_hyperactivity_disorder/attention_deficit_hyperactivity_disorder_schema.jsonld",
+    "@type": "@id"
+  },
+  "caffeine": {
+    "@id": "activity_path:caffeine/caffeine_schema.jsonld",
+    "@type": "@id"
+  },
+  "conduct_disorder": {
+    "@id": "activity_path:conduct_disorder/conduct_disorder_schema.jsonld",
+    "@type": "@id"
+  },
+  "drug_use": {
+    "@id": "activity_path:drug_use/drug_use_schema.jsonld",
+    "@type": "@id"
+  },
+  "eating_disorders": {
+    "@id": "activity_path:eating_disorders/eating_disorders_schema.jsonld",
+    "@type": "@id"
+  },
+  "family_history_assessment_parent": {
+    "@id": "activity_path:family_history_assessment_parent/family_history_assessment_parent_schema.jsonld",
+    "@type": "@id"
+  },
+  "gaf_scale": {
+    "@id": "activity_path:gaf_scale/gaf_scale_schema.jsonld",
+    "@type": "@id"
+  },
+  "interviewer_notes": {
+    "@id": "activity_path:interviewer_notes/interviewer_notes_schema.jsonld",
+    "@type": "@id"
+  },
+  "interviewer_observation": {
+    "@id": "activity_path:interviewer_observation/interviewer_observation_schema.jsonld",
+    "@type": "@id"
+  },
+  "major_depression": {
+    "@id": "activity_path:major_depression/major_depression_schema.jsonld",
+    "@type": "@id"
+  },
+  "maniahypomania": {
+    "@id": "activity_path:maniahypomania/maniahypomania_schema.jsonld",
+    "@type": "@id"
+  },
+  "obsessive_compulsive_disorder": {
+    "@id": "activity_path:obsessive_compulsive_disorder/obsessive_compulsive_disorder_schema.jsonld",
+    "@type": "@id"
+  },
+  "oppositional_defiant_disorder": {
+    "@id": "activity_path:oppositional_defiant_disorder/oppositional_defiant_disorder_schema.jsonld",
+    "@type": "@id"
+  },
+  "overanxiousgad": {
+    "@id": "activity_path:overanxiousgad/overanxiousgad_schema.jsonld",
+    "@type": "@id"
+  },
+  "panic_disorder": {
+    "@id": "activity_path:panic_disorder/panic_disorder_schema.jsonld",
+    "@type": "@id"
+  },
+  "posttraumatic_stress_disorder": {
+    "@id": "activity_path:posttraumatic_stress_disorder/posttraumatic_stress_disorder_schema.jsonld",
+    "@type": "@id"
+  },
+  "psychosis": {
+    "@id": "activity_path:psychosis/psychosis_schema.jsonld",
+    "@type": "@id"
+  },
+  "register_interview_child_psychiatric": {
+    "@id": "activity_path:register_interview_child_psychiatric/register_interview_child_psychiatric_schema.jsonld",
+    "@type": "@id"
+  },
+  "screener": {
+    "@id": "activity_path:screener/screener_schema.jsonld",
+    "@type": "@id"
+  },
+  "screener_checklist": {
+    "@id": "activity_path:screener_checklist/screener_checklist_schema.jsonld",
+    "@type": "@id"
+  },
+  "separation_anxiety": {
+    "@id": "activity_path:separation_anxiety/separation_anxiety_schema.jsonld",
+    "@type": "@id"
+  },
+  "social_anxiety": {
+    "@id": "activity_path:social_anxiety/social_anxiety_schema.jsonld",
+    "@type": "@id"
+  },
+  "specific_phobia": {
+    "@id": "activity_path:specific_phobia/specific_phobia_schema.jsonld",
+    "@type": "@id"
+  },
+  "suicideselfharm": {
+    "@id": "activity_path:suicideselfharm/suicideselfharm_schema.jsonld",
+    "@type": "@id"
+  },
+  "timeline": {
+    "@id": "activity_path:timeline/timeline_schema.jsonld",
+    "@type": "@id"
+  },
+  "tobacco": {
+    "@id": "activity_path:tobacco/tobacco_schema.jsonld",
+    "@type": "@id"
+  }
+}
+}
