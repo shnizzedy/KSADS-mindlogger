@@ -1,0 +1,43 @@
+{
+  "@context": [ "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld",
+                "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/master/activity-sets/ksadsActivitySets_context.jsonld"
+                ],
+  "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/ActivitySet.jsonld",
+  "@id": "ksads_schema",
+  "skos:prefLabel": "KSADS Interview",
+  "skos:altLabel": "ksads",
+  "schema:description": "activity set for KSADS",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "ui": {
+    "order": [
+      "register_interview_child_psychiatric",     
+      "timeline",                               
+      "screener",
+      "screener_checklist",                      
+      "major_depression",
+      "maniahypomania",
+      "suicideselfharm",
+      "psychosis",
+      "specific_phobia",
+      "social_anxiety",                          
+      "overanxiousgad",
+      "separation_anxiety",
+      "panic_disorder",
+      "agoraphobia",                             
+      "obsessive_compulsive_disorder",
+      "attention_deficit_hyperactivity_disorder",
+      "oppositional_defiant_disorder",
+      "conduct_disorder",                        
+      "eating_disorders",
+      "posttraumatic_stress_disorder",           
+      "tobacco",
+      "alcohol_abusedependence",
+      "drug_use",
+      "caffeine",
+      "interviewer_observation",
+      "gaf_scale",                               
+      "interviewer_notes"                       
+      ],
+    "shuffle": false
+  }
