@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "timeline": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch2/activities/timeline/items/",
+        "timeline": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch3/activities/timeline/items/",
         "dctlo005": {
             "@id": "timeline:dctlo005.jsonld",
             "@type": "@id"

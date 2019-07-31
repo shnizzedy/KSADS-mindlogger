@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "alcohol_abusedependence": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch2/activities/alcohol_abusedependence/items/",
+        "alcohol_abusedependence": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch3/activities/alcohol_abusedependence/items/",
         "calc0": {
             "@id": "alcohol_abusedependence:calc0.jsonld",
             "@type": "@id"

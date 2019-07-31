@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "obsessive_compulsive_disorder": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch2/activities/obsessive_compulsive_disorder/items/",
+        "obsessive_compulsive_disorder": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch3/activities/obsessive_compulsive_disorder/items/",
         "cocd0": {
             "@id": "obsessive_compulsive_disorder:cocd0.jsonld",
             "@type": "@id"

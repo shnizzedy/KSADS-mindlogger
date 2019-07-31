@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "gaf_scale": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch2/activities/gaf_scale/items/",
+        "gaf_scale": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch3/activities/gaf_scale/items/",
         "gaf_info": {
             "@id": "gaf_scale:gaf_info.jsonld",
             "@type": "@id"

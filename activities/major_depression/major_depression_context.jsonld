@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "major_depression": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch2/activities/major_depression/items/",
+        "major_depression": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch3/activities/major_depression/items/",
         "cmdd0": {
             "@id": "major_depression:cmdd0.jsonld",
             "@type": "@id"
