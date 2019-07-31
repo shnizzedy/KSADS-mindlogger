@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "oppositional_defiant_disorder": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/oppositional_defiant_disorder/items/",
+        "oppositional_defiant_disorder": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch2/activities/oppositional_defiant_disorder/items/",
         "codd0": {
             "@id": "oppositional_defiant_disorder:codd0.jsonld",
             "@type": "@id"

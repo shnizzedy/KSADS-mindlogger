@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/major_depression/major_depression_context.jsonld"
+        "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch2/activities/major_depression/major_depression_context.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Activity.jsonld",
     "@id": "major_depression_schema",

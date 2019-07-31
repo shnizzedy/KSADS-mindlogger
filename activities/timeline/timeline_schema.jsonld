@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/timeline/timeline_context.jsonld"
+        "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch2/activities/timeline/timeline_context.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Activity.jsonld",
     "@id": "timeline_schema",

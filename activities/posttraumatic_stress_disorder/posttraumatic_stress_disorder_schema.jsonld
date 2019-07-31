@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/posttraumatic_stress_disorder/posttraumatic_stress_disorder_context.jsonld"
+        "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch2/activities/posttraumatic_stress_disorder/posttraumatic_stress_disorder_context.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Activity.jsonld",
     "@id": "posttraumatic_stress_disorder_schema",

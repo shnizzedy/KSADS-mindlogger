@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/register_interview_child_psychiatric/register_interview_child_psychiatric_context.jsonld"
+        "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch2/activities/register_interview_child_psychiatric/register_interview_child_psychiatric_context.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Activity.jsonld",
     "@id": "register_interview_child_psychiatric_schema",

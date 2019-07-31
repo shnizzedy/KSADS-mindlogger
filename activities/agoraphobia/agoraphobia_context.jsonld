@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "agoraphobia": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/agoraphobia/items/",
+        "agoraphobia": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch2/activities/agoraphobia/items/",
         "cagr0": {
             "@id": "agoraphobia:cagr0.jsonld",
             "@type": "@id"

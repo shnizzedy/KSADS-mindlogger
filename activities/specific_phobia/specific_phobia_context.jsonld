@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "specific_phobia": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/specific_phobia/items/",
+        "specific_phobia": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch2/activities/specific_phobia/items/",
         "cpho0": {
             "@id": "specific_phobia:cpho0.jsonld",
             "@type": "@id"

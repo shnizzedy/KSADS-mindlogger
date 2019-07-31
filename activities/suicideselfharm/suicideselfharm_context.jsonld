@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "suicideselfharm": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/suicideselfharm/items/",
+        "suicideselfharm": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch2/activities/suicideselfharm/items/",
         "csui0": {
             "@id": "suicideselfharm:csui0.jsonld",
             "@type": "@id"

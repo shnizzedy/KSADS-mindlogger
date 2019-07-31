@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "social_anxiety": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/social_anxiety/items/",
+        "social_anxiety": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/newbranch2/activities/social_anxiety/items/",
         "csoc0": {
             "@id": "social_anxiety:csoc0.jsonld",
             "@type": "@id"
