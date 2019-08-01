@@ -1,6 +1,6 @@
 {
-  "@context": [ "https://raw.githubusercontent.com/shnizzedy/KSADS-mindlogger/branch-context/contexts/generic.jsonld",
-                "github:activity-sets/ksadsActivitySets_context.jsonld"
+  "@context": [ "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld",
+                "https://raw.githubusercontent.com/shnizzedy/KSADS-mindlogger/fix-branch-context/activity-sets/ksadsActivitySets_context.jsonld"
                 ],
   "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/ActivitySet.jsonld",
   "@id": "ksads_schema",
