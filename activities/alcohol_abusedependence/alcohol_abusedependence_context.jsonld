@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "alcohol_abusedependence": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/alcohol_abusedependence/items/",
+        "alcohol_abusedependence": "github:activities/alcohol_abusedependence/items/",
         "calc0": {
             "@id": "alcohol_abusedependence:calc0.jsonld",
             "@type": "@id"

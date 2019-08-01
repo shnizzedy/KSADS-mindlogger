@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "psychosis": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/psychosis/items/",
+        "psychosis": "github:activities/psychosis/items/",
         "cpsy0": {
             "@id": "psychosis:cpsy0.jsonld",
             "@type": "@id"

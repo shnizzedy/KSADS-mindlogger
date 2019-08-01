@@ -1,9 +1,9 @@
 {
     "@context": [
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/conduct_disorder/conduct_disorder_context.jsonld"
+        "github:contexts/generic.jsonld",
+        "github:activities/conduct_disorder/conduct_disorder_context.jsonld"
     ],
-    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Activity.jsonld",
+    "@type": "github:schemas/Activity.jsonld",
     "@id": "conduct_disorder_schema",
     "skos:prefLabel": "conduct_disorder_schema",
     "skos:altLabel": "conduct_disorder_schema",

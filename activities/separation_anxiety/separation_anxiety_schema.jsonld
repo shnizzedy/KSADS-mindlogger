@@ -1,9 +1,9 @@
 {
     "@context": [
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/separation_anxiety/separation_anxiety_context.jsonld"
+        "github:contexts/generic.jsonld",
+        "github:activities/separation_anxiety/separation_anxiety_context.jsonld"
     ],
-    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Activity.jsonld",
+    "@type": "github:schemas/Activity.jsonld",
     "@id": "separation_anxiety_schema",
     "skos:prefLabel": "separation_anxiety_schema",
     "skos:altLabel": "separation_anxiety_schema",

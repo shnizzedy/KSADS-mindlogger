@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "conduct_disorder": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/conduct_disorder/items/",
+        "conduct_disorder": "github:activities/conduct_disorder/items/",
         "ccdd0": {
             "@id": "conduct_disorder:ccdd0.jsonld",
             "@type": "@id"

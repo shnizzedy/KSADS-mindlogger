@@ -1,8 +1,8 @@
 {
     "@context": [
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+        "github:contexts/generic.jsonld"
     ],
-    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "@type": "github:schemas/Field.jsonld",
     "skos:altLabel": "dctlo042",
     "formName": "timeline",
     "preamble": "<div style=\"font-size: 14pt; text-decoration: underline;\"> GENERAL CHARACTERISTICS OF CHILD</div>\n\n<div style=\"font-size: 12pt; text-decoration: underline;\"> PARENT ABOUT CHILD</div>",

@@ -1,9 +1,9 @@
 {
     "@context": [
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/interviewer_notes/interviewer_notes_context.jsonld"
+        "github:contexts/generic.jsonld",
+        "github:activities/interviewer_notes/interviewer_notes_context.jsonld"
     ],
-    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Activity.jsonld",
+    "@type": "github:schemas/Activity.jsonld",
     "@id": "interviewer_notes_schema",
     "skos:prefLabel": "interviewer_notes_schema",
     "skos:altLabel": "interviewer_notes_schema",

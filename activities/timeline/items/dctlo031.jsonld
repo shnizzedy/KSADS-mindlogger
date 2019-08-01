@@ -1,8 +1,8 @@
 {
     "@context": [
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+        "github:contexts/generic.jsonld"
     ],
-    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "@type": "github:schemas/Field.jsonld",
     "skos:altLabel": "dctlo031",
     "formName": "timeline",
     "preamble": "<div style=\"color: blue;background-color: #ffffdd; \">\nHow are you doing in school? What subjects do you have? What kind of grades do you get?\n\nPlease rate academic subjects on the following scale. List any additional academic subjects and review ratings. </div>",

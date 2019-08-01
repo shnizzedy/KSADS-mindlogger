@@ -1,9 +1,9 @@
 {
     "@context": [
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/specific_phobia/specific_phobia_context.jsonld"
+        "github:contexts/generic.jsonld",
+        "github:activities/specific_phobia/specific_phobia_context.jsonld"
     ],
-    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Activity.jsonld",
+    "@type": "github:schemas/Activity.jsonld",
     "@id": "specific_phobia_schema",
     "skos:prefLabel": "specific_phobia_schema",
     "skos:altLabel": "specific_phobia_schema",

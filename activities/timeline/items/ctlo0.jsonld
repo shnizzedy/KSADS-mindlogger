@@ -1,8 +1,8 @@
 {
     "@context": [
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+        "github:contexts/generic.jsonld"
     ],
-    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "@type": "github:schemas/Field.jsonld",
     "skos:altLabel": "ctlo0",
     "formName": "timeline",
     "preamble": "<div style=\"font-size: 12pt; text-decoration: underline;\"> SCHOOL FUNCTIONING</div><div style=\" color: blue;  width: 100%; background-color: #ffffdd;\">The next questions refer to the current school year (when on summer break refer to the past school year).</div>",

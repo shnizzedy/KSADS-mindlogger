@@ -1,9 +1,9 @@
 {
     "@context": [
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/posttraumatic_stress_disorder/posttraumatic_stress_disorder_context.jsonld"
+        "github:contexts/generic.jsonld",
+        "github:activities/posttraumatic_stress_disorder/posttraumatic_stress_disorder_context.jsonld"
     ],
-    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Activity.jsonld",
+    "@type": "github:schemas/Activity.jsonld",
     "@id": "posttraumatic_stress_disorder_schema",
     "skos:prefLabel": "posttraumatic_stress_disorder_schema",
     "skos:altLabel": "posttraumatic_stress_disorder_schema",

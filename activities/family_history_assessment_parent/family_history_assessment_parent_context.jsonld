@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "family_history_assessment_parent": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/family_history_assessment_parent/items/",
+        "family_history_assessment_parent": "github:activities/family_history_assessment_parent/items/",
         "famhx_select_language": {
             "@id": "family_history_assessment_parent:famhx_select_language.jsonld",
             "@type": "@id"

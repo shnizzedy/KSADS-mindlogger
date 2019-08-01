@@ -1,8 +1,8 @@
 {
     "@context": [
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+        "github:contexts/generic.jsonld"
     ],
-    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "@type": "github:schemas/Field.jsonld",
     "skos:altLabel": "dctlo010",
     "formName": "timeline",
     "preamble": "<div style=\"color: blue;background-color: #ffffdd; \">Now I'd like to learn more about you (your child), where you live, your school, your family and your friends.</div>\n<div style=\"font-size: 12pt; text-decoration: underline;background-color: #ffffdd;\"> HOME</div>",

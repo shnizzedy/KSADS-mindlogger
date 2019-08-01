@@ -1,9 +1,9 @@
 {
     "@context": [
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/family_history_assessment_parent/family_history_assessment_parent_context.jsonld"
+        "github:contexts/generic.jsonld",
+        "github:activities/family_history_assessment_parent/family_history_assessment_parent_context.jsonld"
     ],
-    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Activity.jsonld",
+    "@type": "github:schemas/Activity.jsonld",
     "@id": "family_history_assessment_parent_schema",
     "skos:prefLabel": "family_history_assessment_parent_schema",
     "skos:altLabel": "family_history_assessment_parent_schema",

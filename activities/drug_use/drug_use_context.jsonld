@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "drug_use": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/drug_use/items/",
+        "drug_use": "github:activities/drug_use/items/",
         "cdgu0": {
             "@id": "drug_use:cdgu0.jsonld",
             "@type": "@id"

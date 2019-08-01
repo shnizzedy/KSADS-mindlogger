@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "maniahypomania": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/maniahypomania/items/",
+        "maniahypomania": "github:activities/maniahypomania/items/",
         "cman0": {
             "@id": "maniahypomania:cman0.jsonld",
             "@type": "@id"

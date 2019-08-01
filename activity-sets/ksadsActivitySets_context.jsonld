@@ -1,6 +1,7 @@
 {
 "@context": {
-  "activity_path": "https://raw.githubusercontent.com/hotavocado/KSADS-mindlogger/master/activities/",
+  "github": "https://raw.githubusercontent.com/shnizzedy/KSADS-mindlogger/branch-context",
+  "activity_path": "github:activities/",
   "agoraphobia": {
     "@id": "activity_path:agoraphobia/agoraphobia_schema.jsonld",
     "@type": "@id"

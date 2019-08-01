@@ -1,9 +1,9 @@
 {
     "@context": [
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/screener/screener_context.jsonld"
+        "github:contexts/generic.jsonld",
+        "github:activities/screener/screener_context.jsonld"
     ],
-    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Activity.jsonld",
+    "@type": "github:schemas/Activity.jsonld",
     "@id": "screener_schema",
     "skos:prefLabel": "screener_schema",
     "skos:altLabel": "screener_schema",

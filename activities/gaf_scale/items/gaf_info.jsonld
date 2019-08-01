@@ -1,8 +1,8 @@
 {
     "@context": [
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld"
+        "github:contexts/generic.jsonld"
     ],
-    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Field.jsonld",
+    "@type": "github:schemas/Field.jsonld",
     "skos:altLabel": "gaf_info",
     "formName": "gaf_scale",
     "preamble": "<div style=\" color: purple; font-style: italic; width: 100%; background-color: #ffffdd;\">INTERVIEWER: Rate the subject's most impaired level of general functioning for the specified time period by selecting the lowest level which describes his/her functioning on a hypothetical continuum of health-illness. Use intermediary levels (e.g., 35, 58, 62).  Rate actual functioning regardless of treatment or prognosis. The examples of behavior provided are only illustrative and are not required for a particular rating.\n\nRead the following descriptions and then make your rating in the space provided.</div>",

@@ -1,9 +1,9 @@
 {
     "@context": [
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/major_depression/major_depression_context.jsonld"
+        "github:contexts/generic.jsonld",
+        "github:activities/major_depression/major_depression_context.jsonld"
     ],
-    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Activity.jsonld",
+    "@type": "github:schemas/Activity.jsonld",
     "@id": "major_depression_schema",
     "skos:prefLabel": "major_depression_schema",
     "skos:altLabel": "major_depression_schema",

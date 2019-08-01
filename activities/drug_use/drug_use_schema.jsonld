@@ -1,9 +1,9 @@
 {
     "@context": [
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/drug_use/drug_use_context.jsonld"
+        "github:contexts/generic.jsonld",
+        "github:activities/drug_use/drug_use_context.jsonld"
     ],
-    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Activity.jsonld",
+    "@type": "github:schemas/Activity.jsonld",
     "@id": "drug_use_schema",
     "skos:prefLabel": "drug_use_schema",
     "skos:altLabel": "drug_use_schema",

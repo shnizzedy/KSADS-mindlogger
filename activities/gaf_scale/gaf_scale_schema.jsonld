@@ -1,9 +1,9 @@
 {
     "@context": [
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/gaf_scale/gaf_scale_context.jsonld"
+        "github:contexts/generic.jsonld",
+        "github:activities/gaf_scale/gaf_scale_context.jsonld"
     ],
-    "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/Activity.jsonld",
+    "@type": "github:schemas/Activity.jsonld",
     "@id": "gaf_scale_schema",
     "skos:prefLabel": "gaf_scale_schema",
     "skos:altLabel": "gaf_scale_schema",

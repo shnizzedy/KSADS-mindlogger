@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "separation_anxiety": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/activities/separation_anxiety/items/",
+        "separation_anxiety": "github:activities/separation_anxiety/items/",
         "csep0": {
             "@id": "separation_anxiety:csep0.jsonld",
             "@type": "@id"
