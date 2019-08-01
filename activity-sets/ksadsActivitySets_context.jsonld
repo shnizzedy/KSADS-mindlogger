@@ -1,6 +1,6 @@
 {
 "@context": {
-  "github": "https://raw.githubusercontent.com/shnizzedy/KSADS-mindlogger/even-more-context/",
+  "github": "https://raw.githubusercontent.com/shnizzedy/KSADS-mindlogger/register-interview-child-psychiatric-context/",
   "activity_path": "github:activities/",
   "agoraphobia": {
     "@id": "activity_path:agoraphobia/agoraphobia_schema.jsonld",
