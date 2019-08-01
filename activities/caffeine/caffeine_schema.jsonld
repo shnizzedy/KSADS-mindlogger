@@ -1,6 +1,6 @@
 {
     "@context": [
-        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld", "https://raw.githubusercontent.com/shnizzedy/KSADS-mindlogger/fix-branch-context/activity-sets/ksadsActivitySets_context.jsonld",
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld", "https://raw.githubusercontent.com/shnizzedy/KSADS-mindlogger/more-context/activity-sets/ksadsActivitySets_context.jsonld",
         "github:activities/caffeine/caffeine_context.jsonld"
     ],
     "@type": "github:schemas/Activity.jsonld",
