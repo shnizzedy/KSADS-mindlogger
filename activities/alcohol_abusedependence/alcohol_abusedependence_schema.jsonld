@@ -1,7 +1,7 @@
 {
     "@context": [
-        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld", "https://raw.githubusercontent.com/shnizzedy/KSADS-mindlogger/more-context/activity-sets/ksadsActivitySets_context.jsonld",
-        "github:activities/alcohol_abusedependence/alcohol_abusedependence_context.jsonld"
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld", "https://raw.githubusercontent.com/shnizzedy/KSADS-mindlogger/even-more-context/activity-sets/ksadsActivitySets_context.jsonld",
+        "https://raw.githubusercontent.com/shnizzedy/KSADS-mindlogger/even-more-context/activities/alcohol_abusedependence/alcohol_abusedependence_context.jsonld"
     ],
     "@type": "github:schemas/Activity.jsonld",
     "@id": "alcohol_abusedependence_schema",

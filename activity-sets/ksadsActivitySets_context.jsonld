@@ -1,6 +1,6 @@
 {
 "@context": {
-  "github": "https://raw.githubusercontent.com/shnizzedy/KSADS-mindlogger/more-context/",
+  "github": "https://raw.githubusercontent.com/shnizzedy/KSADS-mindlogger/even-more-context/",
   "activity_path": "github:activities/",
   "agoraphobia": {
     "@id": "activity_path:agoraphobia/agoraphobia_schema.jsonld",
